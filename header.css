@@ -24,7 +24,7 @@ header{
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 0;
-    margin-left: 30%;
+    margin-left: auto;
     font-size: 20px;
 }
 .logo-link{
@@ -50,7 +50,7 @@ a{
     background-color: rgba(128, 128, 128, 0.235);
 }
 .ul1 li a{
-    padding: 2vh;
+    padding: 3vh;
     padding-top: 45px;
     padding-bottom: 25px;
 }
