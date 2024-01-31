@@ -25,7 +25,7 @@ main{
     background-color: white;
     padding: 10px 5px 10px 5px;
     position: absolute;
-    top: 25%;
+    top: 26%;
     margin-left: 4%;
 }
 #resent{
@@ -44,7 +44,7 @@ main{
 .cont-line{
     position: relative;
     display: inline-block;
-    width: 73%;
+    width: 75%;
 }
 .line{
     width: auto;
@@ -70,8 +70,14 @@ main{
     color: white;
     padding: 15px 5px 15px 0px;
 }
+.cont-line2{
+    margin-left: 10px;
+    position: relative;
+    display: inline-block;
+    width: 67%;
+}
 .line2{
-    width: 84vh;
+    width: auto;
     margin: 10px;
 }
 .parts-about{
@@ -112,9 +118,7 @@ h2{
     position: relative;
     width: 6vh;
 }
-.cont-line2{
-    margin-left: 10px;
-    position: relative;
-    display: inline-block;
-    width: 25%;
+
+.hr-edit{
+    width: 75%;
 }
