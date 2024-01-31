@@ -44,7 +44,7 @@ main{
 .cont-line{
     position: relative;
     display: inline-block;
-    width: 75%;
+    width: 79%;
 }
 .line{
     width: auto;
@@ -74,7 +74,7 @@ main{
     margin-left: 10px;
     position: relative;
     display: inline-block;
-    width: 67%;
+    width: 75%;
 }
 .line2{
     width: auto;
